@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://focusdbuser:apqm1234@focus-9bsie.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "myawesomesecretkey",
+    "githubClientId": "72e229377af3dc6cfce4",
+    "githubSecret": "b46f2950b167617ed5a422567e2305b5a600dd47"
+}
